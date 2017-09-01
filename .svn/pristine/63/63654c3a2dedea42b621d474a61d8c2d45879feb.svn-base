@@ -1,0 +1,19 @@
+    <link rel="stylesheet" type="text/css" href="css/city.css"/>
+ <!-- 头部开始 -->
+    <header>
+        <div class="clearfix">
+            <div class="l lt"><a href="#"></a></div>
+            <h1>选择城市</h1>
+        </div>
+    </header>
+    <!-- 头部结束 -->
+
+    <!-- 内容开始 -->
+    <div class="content">
+        <h3>选择城市</h3>
+        <input type="text" class="city" value="昆明">
+        <h3>热门城市</h3>
+    </div>
+    <!-- 内容结束 -->
+
+    

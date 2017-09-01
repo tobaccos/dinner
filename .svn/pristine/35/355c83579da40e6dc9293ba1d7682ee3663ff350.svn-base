@@ -1,0 +1,96 @@
+
+header .lt{
+	background: url(../img/login/logo.png) no-repeat center;
+}
+
+header .r a{
+	background : none;
+	text-algin:center;
+	line-height:100/72rem;
+	color:#fff;
+	font-size:25/72rem;
+}
+
+.content .warper{
+	width:675/72rem;
+}
+
+
+.content .cont_top{
+	height:75/72rem;
+}
+.content .cont_top .head{
+	height:75/72rem;
+	line-height:75/72rem;
+	background:#fff;
+	border:1px solid #ccc;
+	margin-top:23/72rem;
+	font-size:25/72rem;
+	color:#a6a6a6;
+	padding-left:15/72rem;
+	position:relative;
+}
+.content .cont_top .head a{
+	float:right;
+	font-size:25/72rem;
+	color:#a6a6a6;
+	padding-right:20/72rem;
+	display:block;
+}
+.content .cont_top input{
+	width:75/75rem;
+	float:right;
+	position:absolute;
+	right:30/72rem;
+	top:52/72rem;
+	opacity:0;
+}
+
+
+
+.content .cont_money{
+	margin-top:25/72rem;
+}
+.cont_money .form li{
+    background: #fff;
+    height:70/72rem;
+    line-height: 70/72rem;
+	border:1px solid #ccc;
+}
+.cont_money .form li label{
+    padding-left:15/72rem;
+    font-size:25/72rem;
+    color:#a6a6a6;
+}
+.content .cont_money input{
+	width:510/72rem;
+	height:70/72rem;
+	outline:none;
+	font-size:25/72rem;
+	color:#a6a6a6;
+	box-sizing:border-box;
+	float:right;
+	border:none;
+}
+.content .cont_money p{
+	color:red;
+	font-size:35/72rem;
+	text-align :center;
+	margin-top:50/72rem;
+}
+.cont_money .btn{
+	display:block;
+	width:100%;
+	height:90/72rem;
+	background:#f2bd47;
+	line-height:90/72rem;
+	text-align:center;
+	color:#fff;
+	font-size:35/72rem;
+	margin-top:180/72rem;
+}
+
+
+
+
+

@@ -1,0 +1,115 @@
+/* header*/
+header .lt a{
+	display: inline-block;
+	width:100%;
+	height:100%;
+	background: url(../img/business/logo.png) no-repeat 27/72rem center;
+    background-size:70/72rem;
+}
+/*content*/
+.content .mp{
+	margin-top:22/72rem;
+}
+.content .mb{
+	margin-bottom:30/72rem;
+}
+.content .conttent_box{
+    
+    padding:16/72rem;
+	width:(676-32)/72rem;
+	border-left:1px solid #e1e1e1;
+	border-top:1px solid #e1e1e1;
+	border-right:1px solid #e1e1e1;
+	overflow:hidden;
+	background:#fff;
+}
+.content .conttent_box h3{
+    font-size:30/72rem;
+	color:#000000;
+}
+.content .conttent_box h4{
+    font-size:25/72rem;
+	color:#f2bd47;
+}
+.content .conttent_box p{
+    clear:both;
+    font-size:25/72rem;
+	line-height: 54/72rem;
+}
+.content .conttent_box  i{
+	float:right;
+	font-style:normal;
+	height: 0.75rem;
+
+}
+.content .pingl{
+    height:56/72rem;
+	background: url(../img/business/allbgs.png) no-repeat 0 0.166667rem;
+	background-size:175/72rem ;
+}
+.content .pingl span{
+	display: inline-block;
+	width:140/72rem ;
+	height:56/72rem;
+	background: url(../img/business/allbgs.png) no-repeat 0 -0.533333rem;
+	background-size:175/72rem ;
+}
+.content .img img{
+	width:150/72rem;
+	border-right:16px solid #fff;
+}
+.content .img i{
+	height:100/72rem;
+	line-height:100/72rem;
+}
+.content .tele{
+	background: url(../img/business/tel.png) no-repeat 0 12/72rem ;
+	background-size:45/72rem;
+	text-indent:54/72rem;
+}
+.content .drass{
+   
+	background: url(../img/business/loading_city.png) no-repeat 0 12/72rem ;
+	background-size:45/72rem;
+	text-indent:54/72rem;
+}
+.content .tjcp{
+	 width:700/72rem;
+}
+.content .tjcp img{
+	width:240/72rem;
+	border-right:16px solid #fff;
+}
+/*footer*/
+footer{
+
+	text-align:center;
+	line-height:107/72rem;
+}
+footer a{
+    float:left;
+    text-align:center;
+	display:inline-block;
+}
+footer a:first-child{
+	width:100/72rem;
+	height:100%;
+	background: url(../img/business/xx_02.png) no-repeat 0 center ;
+	background-size:102/72rem;
+}
+footer a:nth-child(2){
+    margin-top:20/72rem;
+    width:514/72rem;
+	height:85/72rem;
+	line-height:86/72rem;
+	background:#f2bd47;
+	color:#fff;
+    border-radius:43/72rem;
+    font-size:35/72rem;
+}
+footer a:last-child{
+	width:100/72rem;
+	height:100%;
+	background: url(../img/business/share.png) no-repeat 0.35555556rem  center ;
+	background-size:60/72rem;
+}

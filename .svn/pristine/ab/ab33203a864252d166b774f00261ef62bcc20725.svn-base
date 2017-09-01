@@ -1,0 +1,59 @@
+    <link rel="stylesheet" type="text/css" href="css/waimai.css"/>
+    <!-- 头部开始 -->
+    <header>
+        <div class="clearfix">
+            <div class="l lt"><a href="#home"></a></div>
+            <h1>叫外卖</h1>
+           <div class="r rt"></div>
+        </div>
+    </header>
+    <!-- 头部结束 -->
+
+    <!-- 内容开始 -->
+    <div class="content">
+        <div class="content_top">
+            <div class="warper">
+                <ul>
+                    <li><a href="#">全城</a></li>
+                    <li><a href="#">全部菜品</a></li>
+                    <li><a href="#">默认排序</a></li>
+                    <div class="clearfix"></div>
+                </ul>
+            </div>
+        </div>
+        <div class="content_bottom">
+            <div class="warper">
+                <div class="content_bottom_bottom">
+                    <div class="box">
+                        <div class="box_top">
+                            <div class="l lt">
+                            </div>
+                            <div class="m lt">
+                                <h1>商家标题一</h1>
+                                <p>0元起送｜配送费：0｜销量：50</p>
+                                <p>配送时间：09:00－21:00</p>
+                            </div>
+                            <a href="javascript:;" class="ding">订</a>
+                            <a href="javascript:;" class="song">送</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="box_bottom">
+                            南屏街金马坊
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </div>
+    </div>
+    <!-- 内容结束 -->
+
+    <!-- 尾部开始 -->
+    <!-- <footer>
+        <ul class="clearfix">
+            <li><a href="#home">首页</a></li>
+            <li class="on"><a href="#near">附近</a></li>
+            <li><a href="#center">用户</a></li>
+            <li><a href="#more">更多</a></li>
+        </ul>
+    </footer> -->
+    <!-- 尾部结束 -->

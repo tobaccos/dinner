@@ -1,0 +1,50 @@
+header .lt {
+  background: url(../img/login/logo.png) no-repeat center;
+}
+header .l a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.content .warper {
+  width: 9.375rem;
+}
+.content .cont_money {
+  margin-top: 0.34722222rem;
+}
+.content .cont_money input {
+  width: 100%;
+  height: 0.97222222rem;
+  outline: none;
+  font-size: 0.34722222rem;
+  color: #a6a6a6;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-indent: 1.04166667rem;
+}
+.content .cont_money .inp_num {
+  background: #ffffff url(../img/money/phone.png) no-repeat 0.45833333rem center;
+}
+.content .cont_money .inp_pwd {
+  background: #ffffff url(../img/money/pwd.png) no-repeat 0.34722222rem center;
+}
+.content .cont_money .inp_address {
+  background: #ffffff url(../img/money/car.png) no-repeat 0.34722222rem center;
+}
+.content .cont_money p {
+  color: red;
+  font-size: 0.48611111rem;
+  text-align: center;
+  margin-top: 0.69444444rem;
+}
+.cont_money .btn {
+  display: block;
+  width: 100%;
+  height: 1.25rem;
+  background: #f2bd47;
+  line-height: 1.25rem;
+  text-align: center;
+  color: #fff;
+  font-size: 0.48611111rem;
+  margin-top: 0.69444444rem;
+}

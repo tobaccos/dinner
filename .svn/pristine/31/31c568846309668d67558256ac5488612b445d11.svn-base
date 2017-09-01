@@ -1,0 +1,99 @@
+/* 头部 */
+header .l a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	background: url("../img/waimai/back.png") no-repeat;
+	background-size: 120/72rem 100/72rem;
+}
+/* 内容 */
+.content .content_top{
+	width: 100%;
+	height: 60/72rem;
+	background: #eeeeee;
+}
+.content .content_top ul li{
+	float: left;
+	width: 202/72rem;
+	margin-right: 37/72rem;
+}
+.content .content_top ul>li:nth-child(3){
+	margin-right: 0;
+}
+.content .content_top ul li a{
+	display: inline-block;
+	background: url("../img/nearby/xuanze.png") no-repeat;
+	background-size: 202/72rem 60/72rem;
+	width: 100%;
+	line-height: 60/72rem;
+	font-size: 30/72rem;
+	color: #000000;
+}
+.content .content_top ul>li:nth-child(1) a{
+	text-indent: 45/72rem;
+}
+.content .content_top ul>li:nth-child(2) a{
+	text-indent: 25/72rem;
+}
+.content .content_top ul>li:nth-child(3) a{
+	text-indent: 10/72rem;
+}
+.content_bottom{
+	width: 100%;
+}
+.content_bottom .content_bottom_bottom{
+	width: 100%;
+	margin-top: 25/72rem;
+}
+.content_bottom .content_bottom_bottom .box{
+	width: 100%;
+	border: 1/72rem solid #e5e5e5;
+	margin-bottom: 30/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top{
+	position: relative;
+	margin: 20/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .l{
+	width: 160/72rem;
+	height: 160/72rem;
+	background: url("../img/waimai/waimai01.png") no-repeat;
+	background-size: 160/72rem 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m{
+	margin-left: 30/72rem;
+	color: #000000;
+	height: 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m h1{
+	font-size: 30/72rem;
+	margin-top: 15/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p{
+	font-size: 25/72rem;
+	margin: 20/72rem 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p:nth-child(3){
+	margin: 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top a{
+	position: absolute;
+	right: 0;
+	top: 20/72rem;
+	font-size: 20/72rem;
+	color: #ffffff;
+	padding: 5/72rem;
+	background: #f2bd47;
+}
+.content_bottom .content_bottom_bottom .box .box_top .ding{
+	right: 45/72rem;
+	background: #017e5c;
+}
+.content_bottom .content_bottom_bottom .box .box_bottom{
+	background: #eeeeee;
+	color: #a6a6a6;
+	font-size: 30/72rem;
+	line-height: 76/72rem;
+	padding-left: 20/72rem;
+}
+/* 尾部 */

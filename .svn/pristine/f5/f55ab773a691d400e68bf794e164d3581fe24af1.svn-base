@@ -1,0 +1,195 @@
+/* 头部 */
+header .r a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	background: url("../img/nearby/logo.png") no-repeat;
+	background-size: 90/72rem 100/72rem;
+}
+/* 内容 */
+.content .top{
+	width: 100%;
+}
+.content .top span{
+	text-align: center;
+	display: inline-block;
+	width: 118/72rem;
+	line-height: 58/72rem;
+}
+.content .top span a{
+	display: inline-block;
+	width: 100%;
+	font-size: 30/72rem;
+	border: 1/72rem solid #e1e1e1;
+	margin: 20/72rem 0;
+}
+.content .top>span:nth-child(1){
+	margin-left: 225/72rem;
+	margin-right: 6/72rem;
+}
+.content .top>span:nth-child(1) a{
+	background: #f2bd47;
+	color: #ffffff;
+}
+.content .top>span:nth-child(2) a{
+	background: #eeeeee;
+	color: #017e5c;
+}
+.content .content_top{
+	width: 100%;
+	height: 60/72rem;
+	background: #eeeeee;
+}
+.content .content_top ul li{
+	float: left;
+	width: 202/72rem;
+	margin-right: 37/72rem;
+}
+.content .content_top ul>li:nth-child(3){
+	margin-right: 0;
+}
+.content .content_top ul li a{
+	display: inline-block;
+	background: url("../img/nearby/xuanze.png") no-repeat;
+	background-size: 202/72rem 60/72rem;
+	width: 100%;
+	line-height: 60/72rem;
+	font-size: 30/72rem;
+	color: #000000;
+}
+.content .content_top ul>li:nth-child(1) a{
+	text-indent: 45/72rem;
+}
+.content .content_top ul>li:nth-child(2) a{
+	text-indent: 25/72rem;
+}
+.content .content_top ul>li:nth-child(3) a{
+	text-indent: 10/72rem;
+}
+.content_bottom{
+	width: 100%;
+}
+.content_bottom .input{
+	width: 100%;
+	position: relative;
+	margin: 15/72rem 0;
+}
+.content_bottom .input input{
+	width: 100%;
+	border: 1/72rem solid #e1e1e1;
+	outline: none;
+	line-height: 54/72rem;
+	font-size: 25/72rem;
+	color: #a6a6a6;
+	text-indent: 65/72rem;
+}
+.content_bottom .input a{
+	position: absolute;
+	width: 65/72rem;
+	height: 54/72rem;
+	background: url("../img/nearby/road.png") no-repeat;
+	background-size: 65/72rem 54/72rem;
+}
+.content_bottom .input .road{
+	top: 0;
+	left: 0;
+}
+.content_bottom .input .loading{
+	top: 0;
+	right: 0;
+	background: url("../img/nearby/loading.png") no-repeat;
+	background-size: 65/72rem 54/72rem;
+}
+.content_bottom .content_bottom_bottom{
+	width: 100%;
+}
+.content_bottom .content_bottom_bottom .box{
+	width: 100%;
+	border: 1/72rem solid #e5e5e5;
+	margin-bottom: 30/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top{
+	position: relative;
+	margin: 20/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .l{
+	width: 160/72rem;
+	height: 160/72rem;
+	background: url("../img/nearby/near01.png") no-repeat;
+	background-size: 160/72rem 160/72rem;
+}
+.content_bottom .content_bottom_bottom>.box:nth-child(2) .box_top .l{
+	background: url("../img/nearby/near02.png") no-repeat;
+	background-size: 160/72rem 160/72rem;
+}
+.content_bottom .content_bottom_bottom>.box:nth-child(3) .box_top .l{
+	background: url("../img/nearby/near03.png") no-repeat;
+	background-size: 160/72rem 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m{
+	margin-left: 30/72rem;
+	color: #000000;
+	height: 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m h1{
+	font-size: 30/72rem;
+	margin-top: 15/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p{
+	font-size: 25/72rem;
+	margin: 25/72rem 0 20/72rem 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div{
+	position: relative;
+	width: 165/72rem;
+	height: 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star01{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 29/72rem;
+	background: url("../img/home/star01.png");
+	background-size: 33/72rem 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star02{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 33*4/72rem;
+	height: 29/72rem;
+	background: url("../img/home/star02.png");
+	background-size: 33/72rem 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top a{
+	position: absolute;
+	right: 0;
+	top: 20/72rem;
+	font-size: 20/72rem;
+	color: #ffffff;
+	padding: 5/72rem;
+	background: #f2bd47;
+}
+.content_bottom .content_bottom_bottom .box .box_top .ding{
+	right: 45/72rem;
+	background: #017e5c;
+}
+.content_bottom .content_bottom_bottom .box .box_bottom{
+	background: #eeeeee;
+	color: #a6a6a6;
+	font-size: 30/72rem;
+	line-height: 76/72rem;
+	padding-left: 20/72rem;
+}
+/* 尾部 */
+footer ul .on{
+	background: #017e5c;
+}
+footer ul .on a{
+	color: #ffffff;
+}
+footer ul>li:nth-child(2) a{
+	background: url("../img/common/fujin1.png") no-repeat;
+	background-size: 180/72rem 70/72rem;
+}

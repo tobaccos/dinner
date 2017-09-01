@@ -1,0 +1,66 @@
+.cont {
+  width: 100%;
+  position: absolute;
+  top: 1.38888889rem;
+  bottom: 1.66666667rem;
+  overflow: auto;
+}
+.cont .cont_head {
+  width: 100%;
+  height: 6.45833333rem;
+  background: url("../img/banner.png") no-repeat;
+  background-size: 10rem 6.45833333rem;
+}
+.cont_head_img {
+  width: 2.91666667rem;
+  height: 2.5rem;
+  margin: 0 auto;
+  text-align: center;
+}
+.cont_head_img img {
+  padding-top: 0.83333333rem;
+}
+.cont_head_txt {
+  margin-top: 0.83333333rem;
+  width: 100%;
+}
+.cont_head_txt p {
+  margin: 0 auto;
+  width: 3.79166667rem;
+  height: 0.93055556rem;
+  padding-top: 0.20833333rem;
+  text-align: center;
+  line-height: 0.69444444rem;
+  background: #cd1c64;
+  font-size: 0.41666667rem;
+  color: #ffffff;
+}
+.cont-wraper {
+  width: 8.68055556rem;
+  margin: 0 auto;
+  background: red;
+}
+.cont_end {
+  margin-top: 0.06944444rem;
+  margin-bottom: 1.11111111rem;
+}
+.cont_end ul li {
+  margin-top: 0.69444444rem;
+  width: 1.875rem;
+  height: 2.43055556rem;
+  float: left;
+  font-size: 0.34722222rem;
+  color: #666666;
+  text-align: center;
+}
+.cont_end ul li a p {
+  margin-top: 0.34722222rem;
+}
+.cont_end ul li:nth-child(2) {
+  margin-left: 1.52777778rem;
+  margin-right: 1.52777778rem;
+}
+.cont_end ul li:nth-child(5) {
+  margin-left: 1.52777778rem;
+  margin-right: 1.52777778rem;
+}

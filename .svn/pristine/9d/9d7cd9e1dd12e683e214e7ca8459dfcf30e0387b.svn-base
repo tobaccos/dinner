@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app='app' ng-controller='MainCtrl'>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <title></title>
+    <!-- 引入css -->
+    <link rel="stylesheet" type="text/css" href="css/home.css"/>
+    <link rel="stylesheet" type="text/css" href="css/near.css"/>
+    <!-- 引入angular，jquery -->
+    <script src="js/libs/jquery-1.7.2.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-route.min.js"></script>
+    <!-- 引入控制器 -->
+    <script src="js/script/app/app.js"></script>
+    <script src="js/script/route/route.js"></script>
+    <script src="js/script/controll/MainCtrl.js"></script>
+    <script src="js/script/controll/homeCtrl.js"></script>
+    <script src="js/script/controll/nearCtrl.js"></script>
+</head>
+<body>
+
+    <div ng-view></div>
+
+</body>
+<script type="text/javascript" src="js/libs/common.js"></script>
+</html>

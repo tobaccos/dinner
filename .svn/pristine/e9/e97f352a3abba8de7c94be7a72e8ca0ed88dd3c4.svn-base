@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html ng-app='app' ng-controller='MainCtrl'>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <title>订餐APP</title>
+    <!-- 引入css -->
+    <link rel="stylesheet" href='css/common.css'>
+    <!-- 引入angular，jquery -->
+    <script src="js/libs/jquery-1.7.2.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-route.min.js"></script>
+    <!-- 引入控制器 -->
+    <script src="js/script/app/app.js"></script>
+    <script src="js/script/route/route.js"></script>
+    <script src="js/script/controll/MainCtrl.js"></script>
+    <script src="js/script/controll/homeCtrl.js"></script>
+    <script src="js/script/controll/nearCtrl.js"></script>
+    <script src="js/script/controll/centerCtrl.js"></script>
+    <script src="js/script/controll/centerDLCtrl.js"></script>
+    <script src="js/script/controll/centerXXCtrl.js"></script>
+    <script src="js/script/controll/cityCtrl.js"></script>
+    <script src="js/script/controll/dingcanCPCtrl.js"></script>
+    <script src="js/script/controll/dingcanCtrl.js"></script>
+    <script src="js/script/controll/dingcanQCCtrl.js"></script>
+    <script src="js/script/controll/loginCtrl.js"></script>
+    <script src="js/script/controll/moneyCtrl.js"></script>
+    <script src="js/script/controll/moreCtrl.js"></script>
+    <script src="js/script/controll/myDDCtrl.js"></script>
+    <script src="js/script/controll/mySCCtrl.js"></script>
+    <script src="js/script/controll/registerCtrl.js"></script>
+    <script src="js/script/controll/waimaiCtrl.js"></script>
+    <script src="js/script/controll/xiangqingCtrl.js"></script>
+    <script src="js/script/controll/yudingCtrl.js"></script>
+</head>
+<body>
+
+    <div ng-view></div>
+
+</body>
+<script type="text/javascript" src="js/libs/common.js"></script>
+</html>

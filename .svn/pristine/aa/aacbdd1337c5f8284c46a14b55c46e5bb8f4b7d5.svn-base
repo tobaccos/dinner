@@ -1,0 +1,252 @@
+/* 公共样式 */
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+.lt{
+	float: left;
+}
+.rt{
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+body {
+  	font: 0.29333333rem '微软雅黑';
+ 	color: #666666;
+  	background: url(../img/common/bg.png);
+}
+.warper{
+	width: 680/72rem;
+	margin: 0 auto;
+}
+/* 头部 */
+header{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100/72rem;
+	background: #017e5c;
+}
+header h1{
+	text-align: center;
+	display: inline-block;
+	height: 100/72rem;
+	line-height: 100/72rem;
+	font-size: 35/72rem;
+	color: #ffffff;
+	width: (720-120-90)/72rem;
+}
+header .l{
+	width: 120/72rem;
+	height: 100/72rem;
+}
+header .r{
+	width: 90/72rem;
+	height: 100/72rem;
+}
+header .l a{
+	text-indent: 22/72rem;
+	font-size: 25/72rem;
+	color: #ffffff;
+	display: inline-block;
+	width: 100%;
+	height: 100/72rem;
+	line-height: 100/72rem;
+	background: #f2bd47 url("../img/common/xiangxiaJT.png") no-repeat;
+	background-size: 120/72rem 100/72rem;
+}
+header .r a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	background: url("../img/common/sousuo.png") no-repeat;
+	background-size: 90/72rem 100/72rem;
+}
+/* 内容 */
+.content{
+	width: 100%;
+	position: absolute;
+	top: 100/72rem;
+	bottom: 120/72rem;
+	overflow: auto;
+}
+.content .banner{
+	width: 100%;
+	height: 300/72rem;
+	background: url("../img/home/banner01.png") no-repeat;
+	background-size: 720/72rem 300/72rem;
+}
+.content .content_top{
+	width: 100%;
+	height: 50/72rem;
+	margin: 10/72rem 0;
+	background: #eeeeee;
+}
+.content .content_top_top{
+	width: 30/72rem;
+	height: 50/72rem;
+	background: url("../img/home/laba.png") no-repeat;
+	background-size: 30/72rem 50/72rem;
+}
+.content span{
+	line-height: 50/72rem;
+	font-size: 18/72rem;
+	color: #010000;
+}
+.content .content_top_bottom{
+	width: 100%;
+	height: 210/72rem;
+}
+.content .content_top_bottom ul li{
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+.content .content_top_bottom ul li a{
+	margin: 20/72rem 0;
+	display: inline-block;
+	width: 100%;
+	height: 170/72rem;
+	line-height: 270/72rem;
+	font-size: 23/72rem;
+	color: #a5a5a5;
+	background: url("../img/home/waimai.png") no-repeat;
+	background-size: 170/72rem 170/72rem;
+}
+.content .content_top_bottom ul>li:nth-child(1) a{
+	color: #017e5c;
+	background: url("../img/home/dingcan.png") no-repeat;
+	background-size: 170/72rem 170/72rem;
+}
+.content .content_top_bottom ul>li:nth-child(3) a{
+	background: url("../img/home/dingwei.png") no-repeat;
+	background-size: 170/72rem 170/72rem;
+}
+.content .content_top_bottom ul>li:nth-child(4) a{
+	background: url("../img/home/zhushi.png") no-repeat;
+	background-size: 170/72rem 170/72rem;
+}
+.content_bottom .content_bottom_top{
+	width: 100%;
+	height: 50/72rem;
+	background: #eeeeee;
+	margin-bottom: 20/72rem;
+}
+.content_bottom_top .content_bottom_top_con{
+	font-size: 25/72rem;
+	color: #017e5c;
+	line-height: 50/72rem;
+}
+.content_bottom .content_bottom_bottom .box{
+	border: 1/72rem solid #e5e5e5;
+	margin-bottom: 30/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top{
+	position: relative;
+	margin: 20/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .l{
+	width: 160/72rem;
+	height: 160/72rem;
+	background: url("../img/home/canting01.png") no-repeat;
+	background-size: 160/72rem 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m{
+	margin-left: 30/72rem;
+	color: #000000;
+	height: 160/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m h1{
+	font-size: 30/72rem;
+	margin-top: 15/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p{
+	font-size: 25/72rem;
+	margin: 25/72rem 0 20/72rem 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div{
+	position: relative;
+	width: 165/72rem;
+	height: 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star01{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 29/72rem;
+	background: url("../img/home/star01.png");
+	background-size: 33/72rem 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star02{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 33*4/72rem;
+	height: 29/72rem;
+	background: url("../img/home/star02.png");
+	background-size: 33/72rem 29/72rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top a{
+	position: absolute;
+	right: 0;
+	top: 20/72rem;
+	font-size: 20/72rem;
+	color: #ffffff;
+	padding: 5/72rem;
+	background: #017e5c;
+}
+.content_bottom .content_bottom_bottom .box .box_bottom{
+	background: #eeeeee;
+	color: #a6a6a6;
+	font-size: 30/72rem;
+	line-height: 76/72rem;
+	padding-left: 20/72rem;
+}
+/* 尾部 */
+footer{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 120/72rem;
+	background: #eeeeee;
+}
+footer ul li{
+	float: left;
+	width: 25%;
+}
+footer ul .on{
+	background: #017e5c;
+}
+footer ul .on a{
+	color: #ffffff;
+}
+footer ul li a{
+	text-align: center;
+	width: 100%;
+	height: 120/72rem;
+	display: inline-block;
+	line-height: 170/72rem;
+	font-size: 25/72rem;
+	color: #a6a6a6;
+	background: url("../img/common/shouye.png") no-repeat;
+	background-size: 180/72rem 70/72rem;
+}
+footer ul>li:nth-child(2) a{
+	background: url("../img/common/fujin1.png") no-repeat;
+	background-size: 180/72rem 70/72rem;
+}
+footer ul>li:nth-child(3) a{
+	background: url("../img/common/yonghu.png") no-repeat;
+	background-size: 180/72rem 70/72rem;
+}
+footer ul>li:nth-child(4) a{
+	background: url("../img/common/gengduo.png") no-repeat;
+	background-size: 180/72rem 70/72rem;
+}

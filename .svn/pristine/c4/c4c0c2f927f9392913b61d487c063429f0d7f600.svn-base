@@ -1,0 +1,115 @@
+
+ 
+    <link rel="stylesheet" type="text/css" href="css/yuding.css"/>
+    <!-- 头部开始 -->
+    <header>
+        <div class="clearfix">
+            <div class="l lt"><a href="#"></a></div>
+
+            <h1>预订</h1>
+        </div>
+    </header>
+    <!-- 头部结束 -->
+
+    <!-- 内容开始 -->
+    <div class="content" >
+        <div class="warper">
+            
+            <div class="conttent_box mp">
+            <h3>日期选择</h3>
+            </div>
+            <div class="conttent_box ">
+              <table>
+                  <tr>
+                      <td>周一</td>
+                      <td>周二</td>
+                      <td>周三</td>
+                      <td>周四</td>
+                      <td>周五</td>
+                      <td>周六</td>
+                      <td>周日</td>
+                  </tr>
+                  <tr>
+                      <td>3</td>
+                      <td>4</td>
+                      <td>5</td>
+                      <td>6</td>
+                      <td>7</td>
+                      <td>8</td>
+                      <td>9</td>
+                  </tr>
+                  <tr>
+                      <td>10</td>
+                      <td>11</td>
+                      <td>12</td>
+                      <td>13</td>
+                      <td>14</td>
+                      <td>15</td>
+                      <td>16</td>
+                  </tr>
+                  <tr>
+                      <td>17</td>
+                      <td>18</td>
+                      <td>19</td>
+                      <td>20</td>
+                      <td>21</td>
+                      <td>22</td>
+                      <td>23</td>
+                  </tr>
+                   <tr>
+                      <td>24</td>
+                      <td>25</td>
+                      <td>26</td>
+                      <td>27</td>
+                      <td>28</td>
+                      <td>29</td>
+                      <td>30</td>
+                  </tr>
+              </table>
+           
+            </div>
+            <div class="conttent_box ">
+            
+            <p> <input type="text"><i>选择时间</i></p>
+            </div>
+            <div class="conttent_box mp">
+            <h3>选桌/点菜</h3>
+            </div>    
+            <div class="conttent_box ">
+            
+            <p>选桌</p>
+            </div>
+            <div class="conttent_box ">
+            <p>点菜</p>
+            </div>
+            <div class="conttent_box mp">
+            <h3>联系信息</h3>
+            </div>
+            <div class="conttent_box ">
+            
+            <p>就餐人数：<input type="text"></p>
+            </div>
+            <div class="conttent_box ">
+            <p>联系人：<input type="text"></p>
+            </div>
+            <div class="conttent_box ">
+            <p>联系电话：<input type="text"></p>
+            </div>
+            <div class="conttent_box ">
+            <p>备注：<input type="text"></p>
+            </div>
+        </div>
+        
+        
+
+    </div>
+    <!-- 内容结束 -->
+
+   <!-- 尾部开始 -->
+     <footer>
+
+       
+        <a href="###">提交订单</a>
+    
+    </footer> -->
+    <!-- 尾部结束 -->

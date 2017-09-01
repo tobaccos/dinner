@@ -1,0 +1,170 @@
+/* 头部 */
+header .l a {
+  text-indent: 0.30555556rem;
+  font-size: 0.34722222rem;
+  color: #ffffff;
+  display: inline-block;
+  width: 100%;
+  height: 1.38888889rem;
+  line-height: 1.38888889rem;
+  background: #f2bd47 url("../img/common/xiangxiaJT.png") no-repeat;
+  background-size: 1.66666667rem 1.38888889rem;
+}
+/* 内容 */
+.content .banner {
+  width: 100%;
+  height: 4.16666667rem;
+  background: url("../img/home/banner01.png") no-repeat;
+  background-size: 10rem 4.16666667rem;
+}
+.content .content_top {
+  width: 100%;
+  height: 0.69444444rem;
+  margin: 0.13888889rem 0;
+  background: #eeeeee;
+}
+.content .content_top_top {
+  width: 0.41666667rem;
+  height: 0.69444444rem;
+  background: url("../img/home/laba.png") no-repeat;
+  background-size: 0.41666667rem 0.69444444rem;
+}
+.content .content_top span {
+  line-height: 0.69444444rem;
+  font-size: 0.25rem;
+  color: #010000;
+}
+.content .content_top_bottom {
+  width: 100%;
+  height: 2.91666667rem;
+}
+.content .content_top_bottom ul li {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+.content .content_top_bottom ul li a {
+  margin: 0.27777778rem 0;
+  display: inline-block;
+  width: 100%;
+  height: 2.36111111rem;
+  line-height: 3.75rem;
+  font-size: 0.31944444rem;
+  color: #a5a5a5;
+  background: url("../img/home/waimai.png") no-repeat;
+  background-size: 2.36111111rem 2.36111111rem;
+}
+.content .content_top_bottom ul > li:nth-child(1) a {
+  color: #017e5c;
+  background: url("../img/home/dingcan.png") no-repeat;
+  background-size: 2.36111111rem 2.36111111rem;
+}
+.content .content_top_bottom ul > li:nth-child(3) a {
+  background: url("../img/home/dingwei.png") no-repeat;
+  background-size: 2.36111111rem 2.36111111rem;
+}
+.content .content_top_bottom ul > li:nth-child(4) a {
+  background: url("../img/home/zhushi.png") no-repeat;
+  background-size: 2.36111111rem 2.36111111rem;
+}
+.content_bottom {
+  width: 100%;
+}
+.content_bottom .content_bottom_top {
+  width: 100%;
+  height: 0.69444444rem;
+  background: #eeeeee;
+  margin-bottom: 0.27777778rem;
+}
+.content_bottom_top .content_bottom_top_con {
+  font-size: 0.34722222rem;
+  color: #017e5c;
+  line-height: 0.69444444rem;
+}
+.content_bottom .content_bottom_bottom .box {
+  width: 100%;
+  border: 0.01388889rem solid #e5e5e5;
+  margin-bottom: 0.41666667rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top {
+  position: relative;
+  margin: 0.27777778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .l a {
+  display: inline-block;
+  width: 2.22222222rem;
+  height: 2.22222222rem;
+  background: url("../img/home/canting01.png") no-repeat;
+  background-size: 2.22222222rem 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom > .box:nth-child(2) .box_top .l a {
+  background: url("../img/home/canting02.png") no-repeat;
+  background-size: 2.22222222rem 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom > .box:nth-child(3) .box_top .l a {
+  background: url("../img/home/canting03.png") no-repeat;
+  background-size: 2.22222222rem 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m {
+  margin-left: 0.41666667rem;
+  color: #000000;
+  height: 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m h1 {
+  font-size: 0.41666667rem;
+  margin-top: 0.20833333rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p {
+  font-size: 0.34722222rem;
+  margin: 0.34722222rem 0 0.27777778rem 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div {
+  position: relative;
+  width: 2.29166667rem;
+  height: 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star01 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0.40277778rem;
+  background: url("../img/home/star01.png");
+  background-size: 0.45833333rem 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star02 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.83333333rem;
+  height: 0.40277778rem;
+  background: url("../img/home/star02.png");
+  background-size: 0.45833333rem 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .ding {
+  position: absolute;
+  right: 0;
+  top: 0.27777778rem;
+  font-size: 0.27777778rem;
+  color: #ffffff;
+  padding: 0.06944444rem;
+  background: #017e5c;
+}
+.content_bottom .content_bottom_bottom .box .box_bottom {
+  background: #eeeeee;
+  color: #a6a6a6;
+  font-size: 0.41666667rem;
+  line-height: 1.05555556rem;
+  padding-left: 0.27777778rem;
+}
+/* 尾部 */
+footer ul .on {
+  background: #017e5c;
+}
+footer ul .on a {
+  color: #ffffff;
+}
+footer ul > li:nth-child(1) a {
+  background: url("../img/common/shouye1.png") no-repeat;
+  background-size: 2.5rem 0.97222222rem;
+}

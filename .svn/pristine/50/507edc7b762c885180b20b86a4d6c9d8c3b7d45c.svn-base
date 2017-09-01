@@ -1,0 +1,62 @@
+    <link rel="stylesheet" type="text/css" href="css/centerXX.css"/>
+ <!-- 头部开始 -->
+    <header>
+        <div class="clearfix">
+            <div class="l lt"><a href="javascript:;"></a></div>
+            <h1>个人信息</h1>
+           <div class="r rt"><a href="javascript:;">保存</a></div>
+        </div>
+    </header>
+    <!-- 头部结束 -->
+
+    <!-- 内容开始 -->
+    <div class="content">
+        <div class="warper">
+            <div class='cont_top'>
+                <p class='head'>头像
+                    <a href="javascript:;">&gt;</a>
+                    <form action="" method="post" enctype="multipart/form-data">
+                        <input type="file" name="file1"/>
+                    </form>
+                </p>               
+            </div>
+            <div class="cont_money">
+                <ul class="form">
+                    <li class="name">
+                        <label for="name">昵称：</label>
+                        <input type="text" id="name" placeholder='楼下那个'/>
+                    </li>
+                    <li class="phone">
+                        <label for="phone">真实姓名：</label>
+                        <input type="text" id="phone" placeholder='楼下那个'/>
+                    </li>
+                    <li class="email">
+                        <label for="email">性别：</label>
+                        <input type="text" id="email" placeholder='保密'/>
+                    </li>
+                    <li class="miaoshu">
+                        <label for="miaoshu">手机号码：</label>
+                        <input type="text" id="email" placeholder='18888888888'/>
+                    </li>
+                    <li class="email">
+                        <label for="email">自由C币：</label>
+                        <input type="text" id="email" placeholder='0.00'/>
+                    </li>
+                    <li class="email">
+                        <label for="email">绑定C币：</label>
+                        <input type="text" id="email" placeholder='0.00'/>
+                    </li>
+                    <li class="email">
+                        <label for="email">积分：</label>
+                        <input type="text" id="email" placeholder='500'/>
+                    </li>
+                </ul>
+                
+                <p></p>
+                <a href="index.html#/login" class='btn'>退出登录</a>
+            </div>
+        </div>
+        
+    <!-- 内容结束 -->
+
+    

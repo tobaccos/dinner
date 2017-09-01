@@ -1,0 +1,61 @@
+.cont {
+  width: 100%;
+  position: absolute;
+  top: 1.38888889rem;
+  bottom: 1.66666667rem;
+  background: #ffffff;
+  overflow: auto;
+}
+.ct_wraper {
+  margin: 0 auto;
+  width: 96%;
+  height: 4.23611111rem;
+}
+.cont_text1 {
+  padding-top: 0.90277778rem;
+  text-align: center;
+  margin: 0 auto;
+  width: 4.16666667rem;
+  font-size: 0.41666667rem;
+  color: #a6a6a6;
+}
+.cont_text1 img {
+  width: 3.91666667rem;
+  height: 1.13888889rem;
+}
+.cont_text1 h4 {
+  text-indent: 0.34722222rem;
+  padding-top: 0.625rem;
+  padding-bottom: 1.31944444rem;
+}
+.cont_text2 {
+  width: 96%;
+  text-align: left;
+  margin: 0 auto;
+  font-size: 0.34722222rem;
+  /*background:red;*/
+  color: #a6a6a6;
+  text-indent: 0.20833333rem;
+  margin-bottom: 3.88888889rem;
+}
+.cont_text2 ul li {
+  line-height: 0.66666667rem;
+  border: 0.01388889rem solid #d9d8d8;
+  box-sizing: border-box;
+}
+.cont_text2 ul .i2 a {
+  float: right;
+  font-size: 0.41666667rem;
+  color: #a6a6a6;
+}
+/* 尾部 */
+footer ul .on {
+  background: #017e5c;
+}
+footer ul .on a {
+  color: #ffffff;
+}
+footer ul > li:nth-child(4) a {
+  background: url("../img/common/gengduo1.png") no-repeat;
+  background-size: 2.5rem 0.97222222rem;
+}

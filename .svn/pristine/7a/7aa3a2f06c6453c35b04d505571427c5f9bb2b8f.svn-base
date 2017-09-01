@@ -1,0 +1,122 @@
+/* 头部 */
+header .l a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background: url("../img/waimai/back.png") no-repeat;
+  background-size: 1.66666667rem 1.38888889rem;
+}
+/* 内容 */
+.content {
+  bottom: 0;
+}
+.content .content_top {
+  width: 100%;
+  height: 0.83333333rem;
+  background: #eeeeee;
+}
+.content .content_top ul li {
+  float: left;
+  width: 2.80555556rem;
+  margin-right: 0.51388889rem;
+}
+.content .content_top ul > li:nth-child(3) {
+  margin-right: 0;
+}
+.content .content_top ul li a {
+  display: inline-block;
+  background: url("../img/nearby/xuanze.png") no-repeat;
+  background-size: 2.80555556rem 0.83333333rem;
+  width: 100%;
+  line-height: 0.83333333rem;
+  font-size: 0.41666667rem;
+  color: #000000;
+}
+.content .content_top ul > li:nth-child(1) a {
+  text-indent: 0.625rem;
+}
+.content .content_top ul > li:nth-child(2) a {
+  text-indent: 0.34722222rem;
+}
+.content .content_top ul > li:nth-child(3) a {
+  text-indent: 0.13888889rem;
+}
+.content_bottom {
+  width: 100%;
+  margin-top: 0.34722222rem;
+}
+.content_bottom .content_bottom_bottom {
+  width: 100%;
+}
+.content_bottom .content_bottom_bottom .box {
+  width: 100%;
+  border: 0.01388889rem solid #e5e5e5;
+  margin-bottom: 0.41666667rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top {
+  position: relative;
+  margin: 0.27777778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .l {
+  width: 2.22222222rem;
+  height: 2.22222222rem;
+  background: url("../img/home/canting01.png") no-repeat;
+  background-size: 2.22222222rem 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m {
+  margin-left: 0.41666667rem;
+  color: #000000;
+  height: 2.22222222rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m h1 {
+  font-size: 0.41666667rem;
+  margin-top: 0.20833333rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m p {
+  font-size: 0.34722222rem;
+  margin: 0.34722222rem 0 0.27777778rem 0;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div {
+  position: relative;
+  width: 2.29166667rem;
+  height: 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star01 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0.40277778rem;
+  background: url("../img/home/star01.png");
+  background-size: 0.45833333rem 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top .m div .star02 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.83333333rem;
+  height: 0.40277778rem;
+  background: url("../img/home/star02.png");
+  background-size: 0.45833333rem 0.40277778rem;
+}
+.content_bottom .content_bottom_bottom .box .box_top a {
+  position: absolute;
+  right: 0;
+  top: 0.27777778rem;
+  font-size: 0.27777778rem;
+  color: #ffffff;
+  padding: 0.06944444rem;
+  background: #f2bd47;
+}
+.content_bottom .content_bottom_bottom .box .box_top .ding {
+  right: 0.625rem;
+  background: #017e5c;
+}
+.content_bottom .content_bottom_bottom .box .box_bottom {
+  background: #eeeeee;
+  color: #a6a6a6;
+  font-size: 0.41666667rem;
+  line-height: 1.05555556rem;
+  padding-left: 0.27777778rem;
+}
+/* 尾部 */

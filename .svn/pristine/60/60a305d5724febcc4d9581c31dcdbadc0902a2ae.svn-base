@@ -1,0 +1,119 @@
+
+/*登录页面*/
+
+header .lt{
+	background: url(../img/login/logo.png) no-repeat center;
+}
+
+.content .warper{
+	width:595/72rem;
+}
+.content .tit{
+	width:100%;
+	height:150/72rem;
+}
+.content .tit p{
+	color:#017e5c;
+	font-size:35/72rem;
+	line-height:150/72rem;
+	text-align:center;
+}
+
+.content .cont_botm input{
+	width:100%;
+	height:90/72rem;
+	line-height:90/72rem;
+	outline:none;
+	border:1px solid #ccc;
+	margin-bottom:40/72rem;
+	font-size:30/72rem;
+	text-indent:55/72rem;
+}
+.content .cont_botm .inp_num{
+	background:#fff url(../img/login/tel.png) no-repeat;
+	background-position:20/72rem;
+}
+.content .cont_botm .inp_pwd{
+	background:#fff url(../img/login/keyword.png) no-repeat;
+	background-position:20/72rem;
+}
+
+.content .cont_botm .dl{
+	display:block;
+	width:100%;
+	height:90/72rem;
+	background:#f2bd47;
+	line-height:90/72rem;
+	text-align:center;
+	color:#fff;
+	font-size:35/72rem;
+	margin-bottom:40/72rem;
+}
+.content .cont_botm p .zc{
+	display:block;
+	width:120/72rem;
+	height:50/72rem;
+	background:#017e5c;
+	line-height:50/72rem;
+	text-align:center;
+	color:#fff;
+	font-size:25/72rem;
+	float:left;
+}
+.content .cont_botm p .pwd{
+	float:right;
+	line-height:50/72rem;
+	color:#ff945a;
+	font-size:20/72rem;
+	text-decoration:underline;
+}
+.cont_botm .logintip{
+	color:red;
+	text-align:center;
+	font-size:35/72rem;
+	margin-top:30/72rem;
+	margin-bottom:30/72rem;
+}
+
+
+/*注册页面*/ 
+.content .cont_botm .inp_pwd2{
+	margin-bottom:60/72rem;
+}
+.cont_botm .argee{
+	float:right;
+	height:40/72rem;
+	line-height:40/72rem;
+	color:#000;
+	font-size:25/72rem;
+	vertical-align:middle;
+}
+.cont_botm .argee span{
+	float:left;
+	display:block;
+	height:40/72rem;
+	line-height:40/72rem;
+	width:27/72rem;
+	background:#fff url(../img/login/login_argee1.png) no-repeat left center;
+	margin-right:10/72rem;
+}
+.cont_botm .argee .on{
+	background-image: url(../img/login/login_argee2.png);
+}
+.cont_botm .btn{
+	display:block;
+	width:100%;
+	height:90/72rem;
+	background:#f2bd47;
+	line-height:90/72rem;
+	text-align:center;
+	color:#fff;
+	font-size:35/72rem;
+	margin-top:50/72rem;
+}
+.cont_botm .tip{
+	color:red;
+	text-align:center;
+	font-size:35/72rem;
+	margin-top:120/72rem;
+}

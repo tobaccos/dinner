@@ -1,0 +1,35 @@
+    <link rel="stylesheet" type="text/css" href="css/login.css"/>
+ <!-- 头部开始 -->
+    <header>
+        <div class="clearfix">
+            <div class="l lt"><a href="#centerDL"></a></div>
+            <h1>注册</h1>
+           <!-- <div class="r rt"><a href="#"></a></div> -->
+        </div>
+    </header>
+    <!-- 头部结束 -->
+
+    <!-- 内容开始 -->
+    <div class="content">
+        <div class="warper">
+            <div class="tit">
+                <p>亲，下午好</p>
+            </div>
+            <div class="cont_botm">
+                <input type="text" class='inp_tel' placeholder='请输入手机号'>
+                <input type="text" class='inp_uname' placeholder='请输入昵称'>
+                <input type="password" class='inp_pwd1' placeholder='密码：8位到20位密码'>
+                <input type="password" class='inp_pwd2' placeholder='请再次输入密码'>
+                <p class='argee'><span></span>我也阅读并接受协议</p>
+
+                <p class='tip'></p>
+                <a href="javascript:;" class='btn'>确认注册</a>
+                
+                
+            </div>
+        </div>
+        
+    </div>
+    <!-- 内容结束 -->
+
+    

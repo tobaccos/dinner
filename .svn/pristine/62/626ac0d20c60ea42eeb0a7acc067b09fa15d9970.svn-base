@@ -1,0 +1,80 @@
+/* header*/
+header .lt a{
+	display: inline-block;
+	width:100%;
+	height:100%;
+	background: url(../img/business/logo.png) no-repeat 27/72rem center;
+    background-size:70/72rem;
+}
+/*content*/
+
+.content .mp{
+	margin-top:22/72rem;
+}
+.content .mb{
+	margin-bottom:30/72rem;
+}
+.content .conttent_box table{
+	width:100%;
+	height:354/72rem;
+	text-align:center;
+}
+.content .conttent_box{
+    
+    padding:16/72rem;
+	width:(676-32)/72rem;
+	border-left:1px solid #e1e1e1;
+	border-top:1px solid #e1e1e1;
+	border-right:1px solid #e1e1e1;
+	overflow:hidden;
+	background:#fff;
+}
+.content .conttent_box h3{
+    font-size:30/72rem;
+	color:#000000;
+}
+.content .conttent_box p{
+    clear:both;
+    font-size:25/72rem;
+	line-height: 54/72rem;
+}
+.content .conttent_box  i{
+	float:right;
+	font-style:normal;
+	height: 0.75rem;
+
+}
+.content .conttent_box p input{
+	height:54/72rem;
+	width:500/72rem;
+	border:none;
+	outline:none;
+	font-size:25/72rem;
+}
+
+
+
+
+
+
+
+/*footer*/
+footer{
+
+	text-align:center;
+	line-height:107/72rem;
+}
+footer a{
+    text-align:center;
+	display:inline-block;
+	 margin-top:20/72rem;
+    width:514/72rem;
+	height:85/72rem;
+	line-height:86/72rem;
+	background:#f2bd47;
+	color:#fff;
+    border-radius:43/72rem;
+    font-size:35/72rem;
+}
+
+

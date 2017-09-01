@@ -1,0 +1,17 @@
+
+//自定义服务
+app.constant('Route',{
+	home:'/home'  //首页
+}); 
+
+app.config(['$routeProvider','Route',function($routeProvider,Route){
+	$routeProvider
+		.when(Route.home,{
+			templateUrl:"views/home.html",
+            controller:"homeCtrl"
+		})
+		.otherwise({
+			redirectTo:Route.home
+		})
+}]);
+

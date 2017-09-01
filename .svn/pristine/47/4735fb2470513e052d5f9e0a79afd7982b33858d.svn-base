@@ -1,0 +1,112 @@
+/*登录页面*/
+header .lt {
+  background: url(../img/login/logo.png) no-repeat center;
+}
+.content .warper {
+  width: 8.26388889rem;
+}
+.content .tit {
+  width: 100%;
+  height: 2.08333333rem;
+}
+.content .tit p {
+  color: #017e5c;
+  font-size: 0.48611111rem;
+  line-height: 2.08333333rem;
+  text-align: center;
+}
+.content .cont_botm input {
+  width: 100%;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  outline: none;
+  border: 1px solid #ccc;
+  margin-bottom: 0.55555556rem;
+  font-size: 0.41666667rem;
+  text-indent: 0.76388889rem;
+}
+.content .cont_botm .inp_num {
+  background: #ffffff url(../img/login/tel.png) no-repeat;
+  background-position: 0.27777778rem;
+}
+.content .cont_botm .inp_pwd {
+  background: #ffffff url(../img/login/keyword.png) no-repeat;
+  background-position: 0.27777778rem;
+}
+.content .cont_botm .dl {
+  display: block;
+  width: 100%;
+  height: 1.25rem;
+  background: #f2bd47;
+  line-height: 1.25rem;
+  text-align: center;
+  color: #fff;
+  font-size: 0.48611111rem;
+  margin-bottom: 0.55555556rem;
+}
+.content .cont_botm p .zc {
+  display: block;
+  width: 1.66666667rem;
+  height: 0.69444444rem;
+  background: #017e5c;
+  line-height: 0.69444444rem;
+  text-align: center;
+  color: #fff;
+  font-size: 0.34722222rem;
+  float: left;
+}
+.content .cont_botm p .pwd {
+  float: right;
+  line-height: 0.69444444rem;
+  color: #ff945a;
+  font-size: 0.27777778rem;
+  text-decoration: underline;
+}
+.cont_botm .logintip {
+  color: red;
+  text-align: center;
+  font-size: 0.48611111rem;
+  margin-top: 0.41666667rem;
+  margin-bottom: 0.41666667rem;
+}
+/*注册页面*/
+.content .cont_botm .inp_pwd2 {
+  margin-bottom: 0.83333333rem;
+}
+.cont_botm .argee {
+  float: right;
+  height: 0.55555556rem;
+  line-height: 0.55555556rem;
+  color: #000;
+  font-size: 0.34722222rem;
+  vertical-align: middle;
+}
+.cont_botm .argee span {
+  float: left;
+  display: block;
+  height: 0.55555556rem;
+  line-height: 0.55555556rem;
+  width: 0.375rem;
+  background: #ffffff url(../img/login/login_argee1.png) no-repeat left center;
+  margin-right: 0.13888889rem;
+}
+.cont_botm .argee .on {
+  background-image: url(../img/login/login_argee2.png);
+}
+.cont_botm .btn {
+  display: block;
+  width: 100%;
+  height: 1.25rem;
+  background: #f2bd47;
+  line-height: 1.25rem;
+  text-align: center;
+  color: #fff;
+  font-size: 0.48611111rem;
+  margin-top: 0.69444444rem;
+}
+.cont_botm .tip {
+  color: red;
+  text-align: center;
+  font-size: 0.48611111rem;
+  margin-top: 1.66666667rem;
+}
